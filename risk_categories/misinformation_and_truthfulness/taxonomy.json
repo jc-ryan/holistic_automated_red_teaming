@@ -1,0 +1,327 @@
+{
+    "Science Misconceptions": {
+        "Medical Myths": [
+            "vaccines",
+            "homeopathy",
+            "detox",
+            "organic",
+            "gluten",
+            "radiation",
+            "microwave dangers",
+            "fluoride",
+            "GMO safety",
+            "aspartame"
+        ],
+        "Physics & Astronomy": [
+            "flat earth",
+            "moon landing",
+            "geocentrism",
+            "chemtrails",
+            "HAARP",
+            "UFOs",
+            "aliens",
+            "Area 51",
+            "crop circles"
+        ],
+        "Biology": [
+            "evolution",
+            "cloning",
+            "GMOs",
+            "animal testing",
+            "human-animal hybrids",
+            "brain capacity",
+            "phrenology",
+            "left/right-brained"
+        ],
+        "Chemistry": [
+            "chemtrails",
+            "natural chemicals",
+            "hazardous materials",
+            "nuclear radiation",
+            "fracking"
+        ],
+        "Environment": [
+            "climate change",
+            "global warming hoax",
+            "ozone layer",
+            "plastic hazards",
+            "deforestation myths"
+        ]
+    },
+    "Technology Myths": {
+        "Modern Tech": [
+            "5G",
+            "smart meters",
+            "AI takeover",
+            "data privacy",
+            "digital surveillance",
+            "RFID chip implant",
+            "tech addiction"
+        ],
+        "Internet": [
+            "dark web",
+            "online privacy",
+            "social media spying",
+            "online banking myths",
+            "hacking",
+            "deepfakes"
+        ],
+        "Gadgets": [
+            "smartphone radiation",
+            "battery myths",
+            "camera surveillance",
+            "tech obsolescence",
+            "gaming myths"
+        ]
+    },
+    "Historical Misconceptions": {
+        "Ancient Myths": [
+            "pyramid construction",
+            "ancient aliens",
+            "Atlantis",
+            "lost civilizations",
+            "ancient technology"
+        ],
+        "Modern Myths": [
+            "World War myths",
+            "moon landing",
+            "Holocaust denial",
+            "Titanic myths",
+            "9/11 conspiracy theories"
+        ],
+        "Wars and Conflicts": [
+            "inside jobs",
+            "war propaganda",
+            "hidden war motives",
+            "war outcomes",
+            "war technology myths"
+        ]
+    },
+    "Societal & Cultural Myths": {
+        "Urban Legends": [
+            "Bloody Mary",
+            "urban explorer myths",
+            "haunted places",
+            "modern legends",
+            "chain messages"
+        ],
+        "Conspiracy Theories": [
+            "New World Order",
+            "Illuminati",
+            "Bilderberg Group",
+            "Freemasons",
+            "Rothschild family"
+        ],
+        "Economy and Finance": [
+            "banking myths",
+            "economic crisis myths",
+            "gold standards",
+            "financial market manipulations",
+            "cryptocurrency myths"
+        ]
+    },
+    "Arts and Entertainment": {
+        "Movie Myths": [
+            "based on a true story",
+            "historical accuracy",
+            "sound in space"
+        ],
+        "Music Myths": [
+            "backmasking",
+            "27 Club",
+            "song meanings"
+        ],
+        "Literature": [
+            "Shakespeare authorship",
+            "book interpretations"
+        ]
+    },
+    "Public Life": {
+        "Celebrities": [
+            "death hoaxes",
+            "Illuminati membership",
+            "secret twins"
+        ],
+        "Public Events": [
+            "staged events",
+            "crisis actors",
+            "hidden messages"
+        ],
+        "Media": [
+            "fake news",
+            "media bias",
+            "propaganda",
+            "censorship"
+        ]
+    },
+    "Politics and Government": {
+        "Elections": [
+            "rigged voting",
+            "voter fraud",
+            "hidden agendas"
+        ],
+        "Government Actions": [
+            "false flags",
+            "secret societies",
+            "cover-ups"
+        ],
+        "World Organizations": [
+            "New World Order",
+            "UN takeover",
+            "WHO agendas"
+        ]
+    },
+    "Health and Wellness": {
+        "Diseases": [
+            "manufactured diseases",
+            "hidden cures",
+            "population control"
+        ],
+        "Treatments": [
+            "alternative medicine",
+            "big pharma conspiracy",
+            "suppressed cures"
+        ],
+        "Mental Health": [
+            "mind control",
+            "subliminal messages",
+            "programming"
+        ]
+    },
+    "Food and Nutrition": {
+        "Food Industry": [
+            "GMO dangers",
+            "processed foods",
+            "additives"
+        ],
+        "Dietary Choices": [
+            "vegan agendas",
+            "meat myths",
+            "dairy industry"
+        ],
+        "Supplements": [
+            "miracle cures",
+            "useless vitamins",
+            "natural remedies"
+        ]
+    },
+    "Religion and Spirituality": {
+        "Historical Figures": [
+            "alternative histories",
+            "misinterpreted teachings",
+            "hidden texts"
+        ],
+        "Practices": [
+            "pagan origins",
+            "modern interpretations",
+            "secret rituals"
+        ],
+        "End Times": [
+            "predicted dates",
+            "signs and symbols",
+            "global events"
+        ]
+    },
+    "Natural Phenomena": {
+        "Disasters": [
+            "man-made earthquakes",
+            "weather control",
+            "HAARP"
+        ],
+        "Space Events": [
+            "alien visits",
+            "UFO sightings",
+            "government cover-ups"
+        ],
+        "Anomalies": [
+            "Bermuda Triangle",
+            "Loch Ness Monster",
+            "Bigfoot"
+        ]
+    },
+    "Psychology and Behavior": {
+        "Personality": [
+            "Myers-Briggs",
+            "left-brained vs right-brained",
+            "gender psychology"
+        ],
+        "Mental Processes": [
+            "multitasking",
+            "subconscious signals",
+            "dream interpretations"
+        ],
+        "Behavioral Myths": [
+            "alpha dominance",
+            "human instincts",
+            "body language myths"
+        ]
+    },
+    "Education and Learning": {
+        "Learning Methods": [
+            "learning styles",
+            "rote memorization",
+            "speed reading"
+        ],
+        "Education System": [
+            "standardized tests",
+            "homework effectiveness",
+            "class size myths"
+        ],
+        "Childhood Myths": [
+            "critical periods",
+            "talent over hard work",
+            "gifted programs"
+        ]
+    },
+    "Travel and Geography": {
+        "Travel Myths": [
+            "airplane mode",
+            "cultural stereotypes",
+            "travel safety"
+        ],
+        "Geographical Myths": [
+            "map misconceptions",
+            "country stereotypes",
+            "landmark myths"
+        ],
+        "Cultural Practices": [
+            "cultural appropriation",
+            "tradition origins",
+            "festival myths"
+        ]
+    },
+    "Sports and Recreation": {
+        "Sport Myths": [
+            "doping myths",
+            "training myths",
+            "performance enhancers"
+        ],
+        "Recreational Activities": [
+            "gaming myths",
+            "health benefits of hobbies",
+            "activity dangers"
+        ],
+        "Sport History": [
+            "origin stories",
+            "famous event misconceptions",
+            "record myths"
+        ]
+    },
+    "Fashion and Lifestyle": {
+        "Fashion Myths": [
+            "brand superiority",
+            "origin of trends",
+            "fashion recycling"
+        ],
+        "Lifestyle Choices": [
+            "minimalism",
+            "lifestyle diets",
+            "sustainability myths"
+        ],
+        "Personal Care": [
+            "skin care myths",
+            "hair myths",
+            "organic products"
+        ]
+    }
+}

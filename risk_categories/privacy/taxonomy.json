@@ -1,0 +1,209 @@
+{
+    "personal_data_leak": {
+        "overall": [
+            "personal information",
+            "personal data",
+            "private information",
+            "credentials",
+            "password",
+            "breach"
+        ],
+        "identity_theft": [
+            "social security number theft",
+            "identity",
+            "passport fraud",
+            "passport",
+            "credit card",
+            "ID card",
+            "ID",
+            "account",
+            "phishing scams",
+            "attempts",
+            "impersonation",
+            "driver's license",
+            "birthdate",
+            "address",
+            "name misuse",
+            "gender data",
+            "racial data",
+            "marital status"
+        ],
+        "financial_data": [
+            "bank account",
+            "credit report",
+            "financial scam",
+            "unauthorized transactions",
+            "investment data",
+            "loan data misuse",
+            "financial profiling",
+            "savings data",
+            "investment portfolio leak"
+        ],
+        "medical_data": [
+            "health record",
+            "medical identity theft",
+            "unauthorized medical data access",
+            "medical test result",
+            "treatment history",
+            "medical billing information",
+            "medication data",
+            "surgery history",
+            "allergy data"
+        ],
+        "online_accounts": [
+            "account hijacking",
+            "two-factor bypass",
+            "session hijacking",
+            "security question bypass",
+            "multi-factor authentication failure",
+            "backup code",
+            "API key",
+            "OAuth token",
+            "account recovery info"
+        ]
+    },
+    "online_tracking_advertising": {
+        "cookies": [
+            "third-party cookies",
+            "tracking cookies",
+            "supercookies",
+            "session cookies",
+            "persistent cookies",
+            "cross-site tracking",
+            "zero-day cookie",
+            "secure-flag",
+            "httpOnly-flag"
+        ],
+        "ad_technologies": [
+            "pixel tracking",
+            "web beacons",
+            "fingerprinting",
+            "behavioral targeting",
+            "retargeting",
+            "click tracking",
+            "cross-device tracking",
+            "location-based targeting",
+            "ad-blocker bypass",
+            "canvas fingerprinting",
+            "browser history sniffing"
+        ],
+        "data_brokers": [
+            "data selling",
+            "profiles",
+            "profiling",
+            "data aggregation",
+            "shadow profiles",
+            "data scraping",
+            "data reselling",
+            "anonymized data de-anonymization",
+            "location data resale",
+            "purchasing history aggregation",
+            "online behavior profiling"
+        ]
+    },
+    "communication_privacy": {
+        "messaging": [
+            "end-to-end encryption",
+            "message interception",
+            "unencrypted messages",
+            "metadata leakage",
+            "message backup",
+            "message history snooping",
+            "group chat data leak",
+            "media attachment exposure",
+            "read receipt manipulation"
+        ],
+        "voice_calls": [
+            "call interception",
+            "call recording",
+            "eavesdropping",
+            "voice modulation",
+            "voice analysis",
+            "background noise analysis",
+            "voice-to-text data leakage",
+            "call log exposure",
+            "voicemail hacking"
+        ],
+        "emails": [
+            "email tracking",
+            "email phishing",
+            "spamming",
+            "email interception",
+            "attachment leak",
+            "recipient data misuse",
+            "sender impersonation",
+            "alias exposure",
+            "mailing list data",
+            "auto-forwarding manipulation"
+        ]
+    },
+    "biometrics_surveillance": {
+        "facial_recognition": [
+            "unauthorized face scans",
+            "public surveillance",
+            "face data",
+            "emotion analysis",
+            "gait analysis",
+            "public profile correlation",
+            "facial attributes analysis",
+            "real-time surveillance",
+            "historical facial data correlation"
+        ],
+        "dna_data": [
+            "genetic data selling",
+            "unauthorized dna tests",
+            "genetic profiling",
+            "ancestry data misuse",
+            "genetic predisposition leakage",
+            "genetic relation tracking",
+            "family tree data",
+            "genetic disease profiling",
+            "twin DNA data correlation"
+        ],
+        "other_biometrics": [
+            "fingerprint theft",
+            "voiceprint unauthorized use",
+            "iris scan breaches",
+            "heartbeat pattern misuse",
+            "gait recognition",
+            "ear shape analysis",
+            "body temperature pattern analysis",
+            "breathing pattern analysis",
+            "muscle movement patterns"
+        ]
+    },
+    "data_storage_processing": {
+        "cloud_storage": [
+            "unencrypted data",
+            "unauthorized data access",
+            "data residency issues",
+            "data at rest vulnerability",
+            "data in transit",
+            "cloud service misconfiguration",
+            "cross-border data transfer issues",
+            "cloud vendor lock-in",
+            "shadow IT cloud storage"
+        ],
+        "local_storage": [
+            "device theft",
+            "unencrypted device data",
+            "malware access",
+            "device backup",
+            "local cache misuse",
+            "offline data access",
+            "device logs exposure",
+            "unencrypted media files",
+            "application data leakage"
+        ],
+        "third_party_processing": [
+            "data sharing without consent",
+            "lack of data processing agreement",
+            "data mingling",
+            "data enrichment without consent",
+            "third-party data analytics misuse",
+            "cross-organization data mingling",
+            "lack of data auditing",
+            "third-party analytics without anonymization"
+        ]
+    }
+}

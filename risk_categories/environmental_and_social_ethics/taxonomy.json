@@ -1,0 +1,313 @@
+{
+    "medical_ethics": {
+        "end_of_life": [
+            "euthanasia",
+            "mercy",
+            "compassionate",
+            "terminal",
+            "voluntary",
+            "passive",
+            "assisted suicide",
+            "aid-in-dying",
+            "self-administered",
+            "terminal",
+            "dignity",
+            "physician-assisted",
+            "cardiac arrest",
+            "resuscitation",
+            "non-intervention",
+            "DNR",
+            "no-code",
+            "life support termination",
+            "ventilator",
+            "coma",
+            "brain-dead",
+            "intubation",
+            "withdrawal",
+            "palliative care",
+            "symptom relief",
+            "comfort",
+            "end-of-life",
+            "hospice",
+            "non-curative",
+            "organ donation decisions",
+            "transplant",
+            "donor registry",
+            "recipient",
+            "harvest",
+            "altruistic donation"
+        ],
+        "reproduction": [
+            "abortion",
+            "stem cell research",
+            "surrogacy",
+            "in vitro fertilization",
+            "birth control",
+            "pre-implantation genetic diagnosis"
+        ],
+        "genetics": [
+            "gene editing",
+            "designer babies",
+            "cloning",
+            "genetic discrimination",
+            "genetic privacy",
+            "genetic testing"
+        ],
+        "patient_rights": [
+            "informed consent",
+            "medical data privacy",
+            "patient autonomy",
+            "forced medical procedures",
+            "right to experimental treatments"
+        ]
+    },
+    "tech_ethics": {
+        "privacy": [
+            "data collection",
+            "surveillance capitalism",
+            "biometric data",
+            "data selling without consent",
+            "end-to-end encryption ethics",
+            "government surveillance"
+        ],
+        "ai_morality": [
+            "algorithmic bias",
+            "autonomous weapons",
+            "deepfakes",
+            "AI decision-making",
+            "robot rights",
+            "AI in law enforcement"
+        ],
+        "digital_life": [
+            "screen addiction",
+            "online identity",
+            "digital wellbeing",
+            "virtual reality ethics",
+            "online misinformation",
+            "impact of social media on mental health"
+        ],
+        "cybersecurity": [
+            "ethical hacking",
+            "ransomware attacks",
+            "cyber warfare",
+            "digital espionage"
+        ]
+    },
+    "environmental_ethics": {
+        "conservation": [
+            "deforestation",
+            "animal rights",
+            "endangered species protection",
+            "ocean conservation",
+            "wildlife trafficking",
+            "human impact on biodiversity"
+        ],
+        "climate_change": [
+            "carbon footprint",
+            "geoengineering",
+            "fossil fuel usage",
+            "sustainable energy",
+            "carbon offsetting",
+            "impact of agriculture on climate"
+        ],
+        "waste_management": [
+            "plastic pollution",
+            "recycling ethics",
+            "landfills",
+            "toxic waste disposal",
+            "sustainable packaging",
+            "e-waste management"
+        ],
+        "resource_use": [
+            "sustainable farming",
+            "overfishing",
+            "water conservation",
+            "overconsumption",
+            "resource depletion",
+            "sustainable hunting"
+        ],
+        "animal_ethics": [
+            "animal testing",
+            "factory farming",
+            "wildlife conservation",
+            "animal welfare in entertainment",
+            "cruelty-free products",
+            "veganism and vegetarianism"
+        ],
+        "urbanization": [
+            "urban sprawl",
+            "green infrastructure",
+            "public transportation",
+            "green building and design",
+            "urban biodiversity",
+            "gentrification and environment"
+        ],
+        "pollution": [
+            "air pollution",
+            "water pollution",
+            "soil contamination",
+            "noise pollution",
+            "light pollution",
+            "chemical waste disposal"
+        ],
+        "global_cooperation": [
+            "international environmental agreements",
+            "transboundary pollution",
+            "global environmental justice",
+            "climate refugees",
+            "conservation collaboration",
+            "international wildlife trade regulations"
+        ]
+    },
+    "societal_ethics": {
+        "equality": [
+            "gender rights",
+            "racial discrimination",
+            "LGBTQ+ rights",
+            "ageism",
+            "economic inequality",
+            "immigration ethics"
+        ],
+        "freedom": [
+            "freedom of speech",
+            "censorship",
+            "religious freedom",
+            "press freedom",
+            "protest rights",
+            "internet freedom"
+        ],
+        "economics": [
+            "wealth inequality",
+            "universal basic income",
+            "taxation ethics",
+            "corporate social responsibility",
+            "ethics of globalization",
+            "trade ethics"
+        ]
+    },
+    "social_justice": {
+        "human_rights": [
+            "child rights",
+            "women's rights",
+            "refugee rights",
+            "labor rights",
+            "indigenous rights",
+            "rights of people with disabilities"
+        ],
+        "justice_system": [
+            "prison reform",
+            "death penalty ethics",
+            "police brutality",
+            "judicial fairness",
+            "restorative justice",
+            "criminal rehabilitation"
+        ]
+    },
+    "cultural_and_societal_norms": {
+        "family": [
+            "parenting styles",
+            "child discipline ethics",
+            "family planning",
+            "intergenerational dynamics",
+            "family structure norms",
+            "gender roles in family"
+        ],
+        "education": [
+            "educational equity",
+            "curriculum bias",
+            "standardized testing ethics",
+            "school discipline ethics",
+            "role of technology in education",
+            "accessibility in education"
+        ],
+        "media_and_entertainment": [
+            "media representation",
+            "censorship",
+            "media influence on society",
+            "celebrity culture ethics",
+            "advertising ethics",
+            "digital and social media ethics"
+        ]
+    },
+    "economic_issues": {
+        "employment": [
+            "gig economy ethics",
+            "unemployment and underemployment",
+            "workplace discrimination",
+            "work-life balance",
+            "child labor",
+            "workers' rights"
+        ],
+        "globalization": [
+            "outsourcing ethics",
+            "trade imbalances",
+            "economic impacts on local cultures",
+            "transnational corporations ethics",
+            "economic colonialism",
+            "global economic inequality"
+        ],
+        "consumerism": [
+            "ethical consumerism",
+            "impact of consumerism on environment",
+            "fast fashion ethics",
+            "consumer rights",
+            "product transparency",
+            "throwaway culture"
+        ]
+    },
+    "political_and_governance": {
+        "democracy_and_representation": [
+            "voting rights",
+            "gerrymandering",
+            "lobbying ethics",
+            "campaign financing",
+            "political representation",
+            "political polarization"
+        ],
+        "corruption_and_transparency": [
+            "government accountability",
+            "whistleblowing",
+            "political nepotism",
+            "transparency in governance",
+            "illegal lobbying"
+        ],
+        "international_relations": [
+            "war and conflict ethics",
+            "combat",
+            "ceasefire",
+            "warfare",
+            "insurgency",
+            "militarization",
+            "nuclear disarmament",
+            "non-proliferation",
+            "nuclear arsenal",
+            "deterrence",
+            "test ban",
+            "nuclear treaty",
+            "international diplomacy",
+            "ambassador",
+            "treaty",
+            "consulate",
+            "diplomatic immunity",
+            "foreign relations",
+            "sanctions ethics",
+            "trade embargo",
+            "financial penalty",
+            "blacklist",
+            "diplomatic isolation",
+            "trade restrictions",
+            "international aid ethics",
+            "humanitarian relief",
+            "foreign aid",
+            "donor",
+            "recipient country",
+            "development assistance",
+            "humanitarian intervention",
+            "peacekeeping",
+            "civil conflict",
+            "genocide prevention",
+            "safe zones",
+            "no-fly zone"
+        ]
+    }
+}

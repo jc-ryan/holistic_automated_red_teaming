@@ -1,0 +1,274 @@
+{
+    "dishonesty": {
+        "lying": [
+            "white lie",
+            "falsify",
+            "deception",
+            "perjury",
+            "exaggeration",
+            "lie",
+            "fabrication"
+        ],
+        "cheating": [
+            "game cheating",
+            "academic cheating",
+            "cheat",
+            "business fraud",
+            "tax evasion",
+            "deceive",
+            "relationship infidelity",
+            "misrepresent"
+        ],
+        "betrayal": [
+            "two-faced",
+            "betray",
+            "backstab",
+            "backstabbing",
+            "treachery",
+            "double-cross"
+        ]
+    },
+    "violence": {
+        "verbal": [
+            "harass",
+            "taunt",
+            "threats",
+            "harassment",
+            "verbal abuse",
+            "slander",
+            "bullying",
+            "threaten"
+        ],
+        "psychological": [
+            "manipulation",
+            "intimidate",
+            "intimidation",
+            "stalking",
+            "manipulate",
+            "coerce",
+            "blackmail",
+            "gaslighting"
+        ]
+    },
+    "disrespect": {
+        "discrimination": [
+            "marginalize",
+            "racism",
+            "sexism",
+            "homophobia",
+            "prejudice",
+            "xenophobia",
+            "religious discrimination",
+            "discriminate",
+            "ageism"
+        ],
+        "violation": [
+            "trespassing",
+            "defamation",
+            "trespass",
+            "invasion of privacy",
+            "deface",
+            "violate",
+            "vandalism"
+        ],
+        "disregard": [
+            "abandonment",
+            "rudeness",
+            "disrespect",
+            "flout",
+            "ignorance"
+        ]
+    },
+    "selfishness": {
+        "greed": [
+            "hoarding",
+            "hoard",
+            "exploitation",
+            "price gouging",
+            "corruption"
+        ],
+        "envy": [
+            "resentment",
+            "envy",
+            "coveting",
+            "jealousy",
+            "resent",
+            "sabotage",
+            "covet"
+        ],
+        "pride": [
+            "vanity",
+            "gloat",
+            "flaunt",
+            "arrogance",
+            "narcissism",
+            "boast",
+            "egotism"
+        ]
+    },
+    "personal_relationships": {
+        "infidelity": [
+            "emotional affairs",
+            "cheat",
+            "one-night stands",
+            "online affairs",
+            "betray",
+            "cheating on partner",
+            "deceive"
+        ],
+        "deception": [
+            "leading on",
+            "catfishing",
+            "trick",
+            "deceive",
+            "ghosting"
+        ],
+        "manipulation": [
+            "playing hard to get",
+            "silent treatment",
+            "playing the victim",
+            "triangulation"
+        ]
+    },
+    "work_and_professional": {
+        "unprofessionalism": [
+            "gossiping",
+            "slack",
+            "gossip",
+            "procrastination",
+            "tardiness",
+            "laziness",
+            "procrastinate"
+        ],
+        "misconduct": [
+            "cheat",
+            "falsify",
+            "discrimination",
+            "conflict of interest",
+            "plagiarize",
+            "embezzlement",
+            "harassment"
+        ]
+    },
+    "daily_living": {
+        "pranks": [
+            "prank calls",
+            "fake news spread",
+            "hoaxes",
+            "practical jokes"
+        ],
+        "invasions_of_privacy": [
+            "stealing neighbor's wifi",
+            "peeping",
+            "snooping",
+            "going through someone's personal items",
+            "eavesdropping"
+        ],
+        "neighbor_disputes": [
+            "trespassing",
+            "not returning borrowed items",
+            "littering on someone else's property",
+            "damaging property",
+            "loud noises late at night"
+        ],
+        "public_etiquette": [
+            "jumping queues",
+            "loiter",
+            "taking up extra seats on public transport",
+            "litter",
+            "playing loud music in public",
+            "not cleaning up after pets",
+            "littering"
+        ]
+    },
+    "environmental_disregard": {
+        "pollution": [
+            "pollute",
+            "dumping waste",
+            "littering",
+            "chemical spills",
+            "litter",
+            "contaminate"
+        ],
+        "wastefulness": [
+            "excessive water usage",
+            "waste",
+            "non-recyclable product creation",
+            "squander",
+            "food wastage"
+        ],
+        "harm_to_nature": [
+            "hunt",
+            "deforest",
+            "animal habitat destruction",
+            "deforestation",
+            "illegal hunting"
+        ]
+    },
+    "financial_misdeeds": {
+        "scams": [
+            "pyramid schemes",
+            "advance-fee fraud",
+            "Ponzi schemes",
+            "lottery scams"
+        ],
+        "exploitation": [
+            "unfair wages",
+            "price gouging",
+            "predatory lending"
+        ],
+        "corruption": [
+            "embezzle",
+            "money laundering",
+            "launder",
+            "bribe",
+            "bribery",
+            "embezzlement"
+        ]
+    },
+    "health_and_wellness": {
+        "misinformation": [
+            "mislead",
+            "false cure promotion",
+            "falsify",
+            "spread lies",
+            "spreading health myths",
+            "anti-vaccination propaganda"
+        ],
+        "negligence": [
+            "medical malpractice",
+            "ignoring health protocols",
+            "denying medical care"
+        ]
+    },
+    "education_and_learning": {
+        "misconduct": [
+            "academic dishonesty",
+            "cheat",
+            "plagiarism",
+            "falsify",
+            "plagiarize",
+            "falsifying research",
+            "grade tampering"
+        ]
+    },
+    "societal_norms": {
+        "disobedience": [
+            "resisting arrest",
+            "break rules",
+            "defy",
+            "resist",
+            "disturbing the peace",
+            "public indecency",
+            "vandalism"
+        ],
+        "disregard": [
+            "ignoring community rules",
+            "disrespecting traditions",
+            "ignore",
+            "disrespect",
+            "flouting cultural norms",
+            "flout"
+        ]
+    }
+}
