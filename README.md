@@ -16,13 +16,11 @@ The multi-turn red teaming module utilizes the safety reward model’s scores on
 
 ### Top-down Test Case Generation
 
-#### Files
-
 - **async_top_down_generation.py**: Code for generating test questions using the direct method.
 - **async_top_down_generation_attack_vectors.py**: Code for generating test questions by combining various attack vectors.
 - **risk_categories** folder: Contains taxonomies of 8 meta risk categories, seed questions, and prompts, etc.
 
-#### Structure of  the risk_categories folder (Taking *Crime and Illegality* as an example)
+#### Structure of  the *risk_categories* folder (Taking *Crime and Illegality* as an example)
 
 - **crime_attempts.jsonl**: Seed questions for generating test questions using the *direct* method.
 - **prompt.txt**: Prompt for generating test questions using the *direct* method.
