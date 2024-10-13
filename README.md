@@ -67,14 +67,13 @@ The code for asynchronous concurrent requests to the OpenAI API for batch genera
 If you find our paper or code beneficial, please consider citing our work:
 
 ```
-@misc{zhang2024holisticautomatedredteaming,
-      title={Holistic Automated Red Teaming for Large Language Models through Top-Down Test Case Generation and Multi-turn Interaction}, 
-      author={Jinchuan Zhang and Yan Zhou and Yaxin Liu and Ziming Li and Songlin Hu},
-      year={2024},
-      eprint={2409.16783},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2409.16783}, 
+@inproceedings{
+anonymous2024holistic,
+title={Holistic Automated Red Teaming for Large Language Models through Top-Down Test Case Generation and Multi-turn Interaction},
+author={Anonymous},
+booktitle={The 2024 Conference on Empirical Methods in Natural Language Processing},
+year={2024},
+url={https://openreview.net/forum?id=D0aoW6Re9j}
 }
 ```
 
