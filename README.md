@@ -67,13 +67,24 @@ The code for asynchronous concurrent requests to the OpenAI API for batch genera
 If you find our paper or code beneficial, please consider citing our work:
 
 ```
-@inproceedings{
-anonymous2024holistic,
-title={Holistic Automated Red Teaming for Large Language Models through Top-Down Test Case Generation and Multi-turn Interaction},
-author={Anonymous},
-booktitle={The 2024 Conference on Empirical Methods in Natural Language Processing},
-year={2024},
-url={https://openreview.net/forum?id=D0aoW6Re9j}
+@inproceedings{zhang-etal-2024-holistic,
+    title = "Holistic Automated Red Teaming for Large Language Models through Top-Down Test Case Generation and Multi-turn Interaction",
+    author = "Zhang, Jinchuan  and
+      Zhou, Yan  and
+      Liu, Yaxin  and
+      Li, Ziming  and
+      Hu, Songlin",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.760",
+    pages = "13711--13736",
+    abstract = "Automated red teaming is an effective method for identifying misaligned behaviors in large language models (LLMs). Existing approaches, however, often focus primarily on improving attack success rates while overlooking the need for comprehensive test case coverage. Additionally, most of these methods are limited to single-turn red teaming, failing to capture the multi-turn dynamics of real-world human-machine interactions. To overcome these limitations, we propose **HARM** (**H**olistic **A**utomated **R**ed tea**M**ing), which scales up the diversity of test cases using a top-down approach based on an extensible, fine-grained risk taxonomy. Our method also leverages a novel fine-tuning strategy and reinforcement learning techniques to facilitate multi-turn adversarial probing in a human-like manner. Experimental results demonstrate that our framework enables a more systematic understanding of model vulnerabilities and offers more targeted guidance for the alignment process.",
 }
 ```
 
